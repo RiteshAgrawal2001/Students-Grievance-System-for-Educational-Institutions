@@ -3,3 +3,4 @@ This paper looks at the development and implementation of a student grievance sy
 ![IMG-20231120-WA0134](https://github.com/RiteshAgrawal2001/Students-Grievance-System-for-Educational-Institutions/assets/89643268/709acd89-bcb5-4f47-8909-c39ec4ecf063)
 https://www.jetir.org/view?paper=JETIR2304A80
 
+Project files https://drive.google.com/drive/folders/1Rs6wo7gMSk9RLpylhxUimVN3AVr-STTP?usp=sharing
